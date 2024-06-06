@@ -1,0 +1,7 @@
+﻿  Render.cpp
+C:\Users\quadr\OneDrive\Рабочий стол\laba2\OpenGLrememberProj\Render.cpp(116,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\quadr\OneDrive\Рабочий стол\laba2\OpenGLrememberProj\Render.cpp(116,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\quadr\OneDrive\Рабочий стол\laba2\OpenGLrememberProj\Render.cpp(116,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\quadr\OneDrive\Рабочий стол\laba2\OpenGLrememberProj\Render.cpp(308,1): warning C4172: возвращение адреса локальной или временной переменной : result
+C:\Users\quadr\OneDrive\Рабочий стол\laba2\OpenGLrememberProj\Render.cpp(316,1): warning C4172: возвращение адреса локальной или временной переменной : result
+  OpenGLrememberProj.vcxproj -> C:\Users\quadr\OneDrive\Рабочий стол\laba2\Debug\OpenGLrememberProj.exe
